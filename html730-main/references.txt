@@ -1,0 +1,30 @@
+Design
+figma
+  -- dribble
+  -- behance
+HTML
+  -- codepen
+  -- freecodecamp
+CSS
+  -- flexboxfroggy
+  -- frontendmentor
+  -- https://flexboxlabs.netlify.app/
+  -- grid garden
+  -- codepen
+  -- freecodecamp
+  -- css battle
+  -- https://css-tricks.com/
+
+
+Google Extension -- daily.dev
+communities: dev.to , hashnode,medium
+
+JS
+  -- freecodecamp
+  -- https://www.jshero.net/en/home.html
+  -- jschallenger
+  -- mdn docs
+  --https://javascript.info/
+https://roadmap.sh/
+
+  https://github.com/DhanushNehru/Ultimate-Web-Development-Resources
